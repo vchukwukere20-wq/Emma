@@ -1,4 +1,4 @@
-# Eemma - Full-Stack E-Commerce Platform
+# Emma - Full-Stack E-Commerce Platform
 
 ##  Overview
 
