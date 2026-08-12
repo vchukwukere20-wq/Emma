@@ -1,12 +1,12 @@
-# Emma - Full-Stack E-Commerce Platform
+# Eemma - Full-Stack E-Commerce Platform
 
-## 📌 Project Overview
+##  Overview
 
 Emma is a modern, full-stack e-commerce platform that connects buyers and sellers. It's designed with scalability and user experience in mind, featuring a robust backend API and an intuitive frontend.
 
 **Live Demo:** Coming soon
 
-## ✨ Key Features
+##  Key Features
 
 ### For Buyers
 - 🛍️ Browse and search products with advanced filters
@@ -252,18 +252,13 @@ curl http://localhost:5000/api/products?search=phone&limit=10
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-MIT License - see LICENSE file for details
-
-## 👨‍💻 Author
-
-**vchukwukere20-wq**
 
 ## 📞 Support
 
-For support, email support@emma.com or create an issue in the repository.
-
+For support, email emmasupport.6@gmail.com or create an issue in the repository.
+## Customer support line;
+- +2348062670341
+  
 ## 🙏 Acknowledgments
 
 - Inspired by platforms like Jumia, Amazon, and eBay
@@ -272,4 +267,3 @@ For support, email support@emma.com or create an issue in the repository.
 
 ---
 
-**Happy Coding! 🚀**
